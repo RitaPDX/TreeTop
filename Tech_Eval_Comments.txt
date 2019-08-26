@@ -1,0 +1,7 @@
+I have never before worked with node.js
+I have never before worked with react.js
+So, we are looking at about 18 hours expended setting up a development platform
+And a lot more time figuring out the “Ins and outs” of working with this technology. Suffice it to say, I have loved learning all this new “stuff”.
+Creating the Test Cases was fairly easy, see the attached document
+I was able to successfully launch WeatherApp
+I was able to find a test case, or scenario if you will, that is NOT testable at its boundaries
